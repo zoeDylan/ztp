@@ -1,0 +1,28 @@
+{
+  "name": "ztp",
+  "version": "0.0.1",
+  "description": "a web develop template tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoeDylan/ztp.git"
+  },
+  "keywords": [
+    "zoedylan",
+    "gulp",
+    "webpack",
+    "web",
+    "ts",
+    "react",
+    "vue"
+  ],
+  "author": "zoedylan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoeDylan/ztp/issues"
+  },
+  "homepage": "https://github.com/zoeDylan/ztp#readme"
+}
